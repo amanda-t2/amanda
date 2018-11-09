@@ -1,2 +1,2 @@
 # amanda
-Hi there
+Welcome.
